@@ -1,0 +1,7 @@
+.*/
+!.github/
+__pycache__/
+test.py
+*.env
+*.bat
+*.bak
